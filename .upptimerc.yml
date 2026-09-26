@@ -6,7 +6,7 @@ repo: lia-status
 
 sites:
   - name: Lia API
-    url: https://api.playlia.com.br/health-teste
+    url: https://api.playlia.com.br/health
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
