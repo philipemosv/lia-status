@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.playlia.com.br.ico",
     "slug": "lia-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.15%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 852,
     "timeDay": 852,
     "timeWeek": 852,
     "timeMonth": 852,
     "timeYear": 852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-26": 0
+    }
   },
   {
     "name": "Lia Web",
