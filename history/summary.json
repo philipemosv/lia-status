@@ -1,22 +1,22 @@
 [
   {
     "name": "Lia API",
-    "url": "https://api.playlia.com.br/health-teste",
+    "url": "https://api.playlia.com.br/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.playlia.com.br.ico",
     "slug": "lia-api",
-    "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
-    "time": 852,
-    "timeDay": 852,
-    "timeWeek": 852,
-    "timeMonth": 852,
-    "timeYear": 852,
+    "status": "up",
+    "uptime": "76.88%",
+    "uptimeDay": "76.88%",
+    "uptimeWeek": "76.88%",
+    "uptimeMonth": "76.88%",
+    "uptimeYear": "76.88%",
+    "time": 850,
+    "timeDay": 850,
+    "timeWeek": 850,
+    "timeMonth": 850,
+    "timeYear": 850,
     "dailyMinutesDown": {
-      "2026-09-26": 0
+      "2026-09-26": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 1101,
-    "timeWeek": 1101,
-    "timeMonth": 1101,
-    "timeYear": 1101,
+    "time": 1148,
+    "timeDay": 1148,
+    "timeWeek": 1148,
+    "timeMonth": 1148,
+    "timeYear": 1148,
     "dailyMinutesDown": {}
   }
 ]
