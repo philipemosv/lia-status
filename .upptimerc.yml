@@ -11,7 +11,7 @@ sites:
       - 200
     maxResponseTime: 5000
   - name: Lia Web
-    url: https://app.playlia.com.br
+    url: https://playlia.com.br
 
 assignees:
   - philipemosv
