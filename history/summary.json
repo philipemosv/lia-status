@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.playlia.com.br.ico",
     "slug": "lia-api",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 10363,
-    "timeWeek": 3293,
-    "timeMonth": 1474,
-    "timeYear": 1236,
+    "uptime": "98.93%",
+    "uptimeDay": "52.29%",
+    "uptimeWeek": "93.18%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.93%",
+    "time": 1606,
+    "timeDay": 19743,
+    "timeWeek": 5643,
+    "timeMonth": 2071,
+    "timeYear": 1606,
     "dailyMinutesDown": {
-      "2026-11-09": 1
+      "2026-11-10": 397,
+      "2026-11-09": 290
     }
   },
   {
@@ -25,16 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/playlia.com.br.ico",
     "slug": "lia-web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1531,
-    "timeDay": 10474,
-    "timeWeek": 3551,
-    "timeMonth": 1740,
-    "timeYear": 1531,
-    "dailyMinutesDown": {}
+    "uptime": "98.93%",
+    "uptimeDay": "52.38%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.93%",
+    "time": 1894,
+    "timeDay": 19618,
+    "timeWeek": 5848,
+    "timeMonth": 2326,
+    "timeYear": 1894,
+    "dailyMinutesDown": {
+      "2026-11-10": 397,
+      "2026-11-09": 289
+    }
   }
 ]
